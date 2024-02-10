@@ -23,17 +23,6 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
-  ### Framework & Library
-  
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  <br><br>
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-  
   ### Tools
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,27 +30,23 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   <br><br>
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   <br><br>
   ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
   ### else
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0921sean&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnYechanJo&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0921sean&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnYechanJo&layout=compact&theme=radical)
   
-  [![https://solved.ac/0921sean](http://mazassumnida.wtf/api/v2/generate_badge?boj=0921sean)](https://solved.ac/0921sean)
 
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0921sean&count_bg=%2300205B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohnYechanJo&count_bg=%2300205B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
   ## Contact
 
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=plastic&logo=Gmail&logoColor=white&link=mailto:0921sean@gmail.com)](mailto:0921sean@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/0921sean/)](https://www.instagram.com/0921sean/)
-  [![Tistory](https://img.shields.io/badge/Tistory-E4405F.svg?&style=plastic&logo=Tistory&logoColor=white&link=https://hazel-nut01.tistory.com/)](https://hazel-nut01.tistory.com/)
-
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=plastic&logo=Gmail&logoColor=white&link=mailto:0921sean@gmail.com)](mailto:johnjo1116@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/0921sean/)](https://www.instagram.com/ivchxn/)
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=80&section=footer&fontSize=80)
 
 </div>
