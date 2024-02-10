@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&text=SeungBeom%20Cheon&fontColor=FFFFFF&fontSize=80)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&text=John%20UYechan%20UJo&fontColor=FFFFFF&fontSize=80)
 
   ## Currently Learning
   
